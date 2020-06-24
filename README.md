@@ -10,8 +10,8 @@ It involves Rank based filtering, Collaborative filtering, and SVD models for re
 
 The process has 5 steps
 
-Exploratory Data Analysis
-Rank Based Recommendations
-User-User Based Collaborative Filtering
-Matrix Factorization
-Extras & Concluding
+* Exploratory Data Analysis
+* Rank Based Recommendations
+* User-User Based Collaborative Filtering
+* Matrix Factorization
+* Extras & Concluding
